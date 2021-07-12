@@ -1,0 +1,108 @@
+#fecha {
+    font-weight: lighter;
+    font-family: Arial;
+    font-size: 90%;
+    position: fixed;
+    top: 1%;
+    left: 6%;
+}
+
+body {
+    margin: 4%;
+    background-color: rgb(24, 25, 27);
+    /* background-color: rgb(40, 41, 46);*/
+}
+
+#contenido {
+    width: auto;
+}
+
+#LinkPool {
+    background-color: #3823f8;
+    border-radius: 30px;
+    padding: 1%;
+    width: 50%;
+    margin-left: 2%;
+}
+
+#sombra {
+    background-color: #2919b3;
+    border-radius: 10px;
+    padding: 2%;
+    margin: 4%;
+}
+
+#BestSellPrice,
+#BestBuyPrice {
+    background-color: rgb(230, 0, 153);
+    border-radius: 10px;
+    padding: 1%;
+    width: fit-content;
+    margin-left: 92%;
+    margin-top: -3.5%;
+
+}
+
+#LPtoken {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#Binance {
+    background-color: #2c2c31;
+    border-radius: 30px;
+    padding: 1%;
+    width: 50%;
+    margin-top: 4%;
+    margin-left: 2%;
+}
+
+#sombra1 {
+    background-color: #474747;
+    border-radius: 10px;
+    padding: 2%;
+    margin: 4%;
+}
+
+#BestSellPrice1,
+#BestBuyPrice1 {
+    background-color: #ddbc00;
+    border-radius: 10px;
+    padding: 1%;
+    width: fit-content;
+    margin-left: 92%;
+    margin-top: -3.5%;
+
+}
+
+#LPtoken {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#chart_div {
+    position: fixed;
+    left: 65%;
+    top: 7%;
+    border-width: 0.8px;
+    border-style: solid;
+    border-radius: 4%;
+    border-color: rgb(56, 57, 59);
+}
+
+text {
+    fill: #c7c7c7;
+}
+
+.tokenicon {
+    width: 120px;
+    margin-left: 3%;
+    margin-top: -5%;
+    margin-bottom: -8%;
+}
+
+.tokeniconbnb {
+    width: 130px;
+    margin-left: 4%;
+    margin-bottom: -1.5%;
+    margin-top: 1%;
+}
